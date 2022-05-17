@@ -64,4 +64,4 @@ Score:
 - recall: 0.8557
 
 File:
-- [Jupyter File](\Option D\ANN_with_BERT_with_Stemming_and_stop_word_removal.ipynb)
+- [Jupyter File](\Option_D\ANN_with_BERT_with_Stemming_and_stop_word_removal.ipynb)
