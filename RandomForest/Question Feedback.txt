@@ -1,5 +1,0 @@
-Kernel dies when only using TFID without stemming? What can I do?
-
-When using stemming error occurs (unexpected EOF when parsing / value error). How can I fix this?
-
-Since it only find solutions in dimensional 3, maxdepth = 3
