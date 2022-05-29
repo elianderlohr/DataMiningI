@@ -13,7 +13,7 @@ The dataset was originaly developed by:
 ## Results
 | **Model**     | **Accuracy** |
 |---------------|--------------|
-| BERT          | 0.9219       |
+| BERT          | 0.9316       |
 | SVM           | 0.9229       |
 | KNN           | 0.8829       |
 | MLP           | 0.8454       |
